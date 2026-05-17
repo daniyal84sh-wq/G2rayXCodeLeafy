@@ -866,7 +866,7 @@ while true; do
             fi
             echo -e "\n  ${WHITE}(Log level: warning — empty log means no errors)${NC}"
             echo ""
-            read -rp "  Press Enter to return..."
+            read -rp "  Press Enter To return..."
             ;;
 
         0)
