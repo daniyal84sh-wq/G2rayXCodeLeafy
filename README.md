@@ -11,9 +11,8 @@
 <!-- 🎬 TUTORIAL VIDEO - TOP PRIORITY -->
 ## 🎬 Quick Start Tutorial
 
-<video src="./assets/video.mp4" controls width="800" style="border-radius: 12px; box-shadow: 0 8px 25px rgba(45,201,78,0.3);">
-  Your browser does not support the video tag. <a href="./assets/video.mp4">Download the tutorial video</a> instead.
-</video>
+https://github.com/user-attachments/assets/79174a4a-ef86-4c1d-9f1a-909d0b29a248
+
 
 > 💡 **New to G2ray?** Watch the 2-minute tutorial above to get started instantly!
 
